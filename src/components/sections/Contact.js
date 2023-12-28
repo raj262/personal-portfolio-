@@ -22,7 +22,7 @@ const Contact = () => {
             <i className="fa fa-phone" />
             <p>
               <span className="small-text">phone</span>
-              +216 21 184 010
+              +91 9129874494
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -31,7 +31,7 @@ const Contact = () => {
             <i className="fa fa-location-dot" />
             <p>
               <span className="small-text">address</span>
-              London, England
+              mohali, Chandigarh
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -42,7 +42,7 @@ const Contact = () => {
             <i className="fa fa-envelope" />
             <p>
               <span className="small-text">email</span>
-              contact@steven.net
+             rv9129rk@gmail.com
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -52,22 +52,22 @@ const Contact = () => {
             <span className="small-text">follow me</span>
             <ul className="social">
               <li>
-                <a href="#">
+                <a href="https://github.com/raj262">
                   <i className="fa-brands fa-github" />
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/rajesh-v-b42615118/">
+                  <i className="fa-brands fa-linkedin" />
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/Raj262Kumar">
                   <i className="fa-brands fa-twitter" />
                 </a>
               </li>
               <li>
-                <a href="#">
-                  <i className="fa-brands fa-dribbble" />
-                </a>
-              </li>
-              <li>
-                <a href="#">
+                <a href="https://www.facebook.com/profile.php?id=100005563082406">
                   <i className="fa-brands fa-facebook" />
                 </a>
               </li>
